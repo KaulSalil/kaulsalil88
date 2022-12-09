@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaulsalil88 ( Salil Kaul)
+- 👋 Hi, I’m  Salil Kaul
 - 👀 I’m interested in Android, React Native
 - 🌱 I’m currently learning Kotlin , Android Architecture Components
 - 💞️ I’m looking to collaborate on android , react native projects focusing on Android .
